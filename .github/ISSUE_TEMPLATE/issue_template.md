@@ -2,7 +2,7 @@
 name: issue_template
 about: 讲者用分享模板。
 title: "【预分享】<分享主题>"
-labels: TBD
+labels: TBD, A2OS Weekly
 assignees: ''
 
 ---
