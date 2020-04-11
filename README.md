@@ -17,7 +17,7 @@
 |13| JIT 编译技术 | 2019/05/25 | IT 创新区会议室 | 周鹤洋 | N/A | [Slides](https://ftp.a2os.club/JIT%20%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF-%E5%91%A8%E9%B9%A4%E6%B4%8B/JIT%20Compilation%20%40%20A2OS%20Weekly.pdf) |
 |14| 我是如何从0到1参与Swift的开发 | 2019/11/09 | IT创新区会议室 | 赵子渊 | N/A | [Slides](https://ftp.a2os.club/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E5%8F%82%E4%B8%8ESwift%E7%9A%84%E5%BC%80%E5%8F%91-%E8%B5%B5%E5%AD%90%E6%B8%8A/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E0%E5%88%B01%E5%8F%82%E4%B8%8ESwift%E7%9A%84%E5%BC%80%E5%8F%91.pptx) |
 |15| [流式计算入门-以Apache Flink为例](https://github.com/NUAA-Open-Source/weekly/issues/3) | 2020/03/08 | Invite Only | [arcosx](https://github.com/arcosx) | 见 issue | |
-|16 | TBD | 2020/04/04 | Member Only | [vvzero](https://github.com/villivateur) | | |
+|16| 各项技术闲扯与沙龙，包括 ipv6/RTOS/云架构 等 | 2020/04/04 | Member Only | [vvzero](https://github.com/villivateur) | N/A | N/A |
 |17| [React 实现](https://github.com/NUAA-Open-Source/weekly/issues/4) | 2020/04/11 | Member Only | [ninjiacoder](https://github.com/RayZhao1998) | 见 issue | |
 
 
