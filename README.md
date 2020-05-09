@@ -27,6 +27,7 @@
 |15| [流式计算入门-以Apache Flink为例](https://github.com/NUAA-Open-Source/weekly/issues/3) | 2020/03/08 | Invite Only | [arcosx](https://github.com/arcosx) | 见 issue | |
 |16| 各项技术闲扯与沙龙，包括 ipv6/RTOS/云架构 等 | 2020/04/04 | Member Only | [vvzero](https://github.com/villivateur) | N/A | N/A |
 |17| [React 实现](https://github.com/NUAA-Open-Source/weekly/issues/4) | 2020/04/11 | Member Only | [ninjiacoder](https://github.com/RayZhao1998) | 见 issue | |
+|18| [初探 OpenResty](https://github.com/NUAA-Open-Source/weekly/issues/7) | 2020/05/10 | Invite Only | [TripleZ](https://github.com/Triple-Z) | 见 issue | |
 
 
 # Asuri Weekly
