@@ -10,6 +10,7 @@
 
 | # | 讲座内容                      | 时间                   | 地点           | 演讲者 |  预备材料 | 文档                                                         |
 |:----:| ----------------------------- | ---------------------- | -------------- | ------ | :----: | :------------------------------------------------------------: |
+|19| [函数式硬件设计与 Clash 语言简介](https://github.com/NUAA-Open-Source/weekly/issues/9) | 2020/05/17 | 见 issue | [losfair](https://github.com/losfair) | 见 issue | [Slides](https://docs.google.com/presentation/d/1bTwaa2_2E21LU3_z4ZQTnSoHs1f4_D5rLCqoYzEo9p0/edit?usp=sharing), <br> [Demo Code](https://github.com/losfair/uart-transmitter.a2os) |
 |18| [初探 OpenResty](https://github.com/NUAA-Open-Source/weekly/issues/7) | 2020/05/10 | Invite Only | [TripleZ](https://github.com/Triple-Z) | 见 issue | [Slides](https://docs.google.com/presentation/d/1PQS-IIVUqyf_VYHkyi-sWC0oc_MPWnV-zLS8ZG93w8Y/edit?usp=sharing)|
 |17| [React 实现](https://github.com/NUAA-Open-Source/weekly/issues/4) | 2020/04/11 | Member Only | [ninjiacoder](https://github.com/RayZhao1998) | 见 issue | |
 |16| 各项技术闲扯与沙龙，包括 ipv6/RTOS/云架构 等 | 2020/04/04 | Member Only | [vvzero](https://github.com/villivateur) | N/A | N/A |
