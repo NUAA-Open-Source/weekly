@@ -10,6 +10,8 @@
 
 | # | 讲座内容                      | 时间                   | 地点           | 演讲者 |  预备材料 | 文档                                                         |
 |:----:| ----------------------------- | ---------------------- | -------------- | ------ | :----: | :------------------------------------------------------------: |
+|21| [CTF 入门之二进制初探](https://github.com/NUAA-Open-Source/weekly/issues/18) | 2021/03/21 | 将军路校区 6101 | [w00d](https://github.com/Wood1314) | 见 issue |  |
+|20| [CTF 入门之 Misc 与 Web 初探](https://github.com/NUAA-Open-Source/weekly/issues/17) | 2021/03/20 | 将军路校区 6101 | [MiaoTony](https://github.com/miaotony) | 见 issue |  |
 |19| [函数式硬件设计与 Clash 语言简介](https://github.com/NUAA-Open-Source/weekly/issues/9) | 2020/05/17 | 见 issue | [losfair](https://github.com/losfair) | 见 issue | [Slides](https://docs.google.com/presentation/d/1bTwaa2_2E21LU3_z4ZQTnSoHs1f4_D5rLCqoYzEo9p0/edit?usp=sharing), <br> [Demo Code](https://github.com/losfair/uart-transmitter.a2os) |
 |18| [初探 OpenResty](https://github.com/NUAA-Open-Source/weekly/issues/7) | 2020/05/10 | Invite Only | [TripleZ](https://github.com/Triple-Z) | 见 issue | [Slides](https://docs.google.com/presentation/d/1PQS-IIVUqyf_VYHkyi-sWC0oc_MPWnV-zLS8ZG93w8Y/edit?usp=sharing)|
 |17| [React 实现](https://github.com/NUAA-Open-Source/weekly/issues/4) | 2020/04/11 | Member Only | [ninjiacoder](https://github.com/RayZhao1998) | 见 issue | |
